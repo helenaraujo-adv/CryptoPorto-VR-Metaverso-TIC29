@@ -1,0 +1,4 @@
+Aluno: Helen Luciane Silva de Araújo
+CPF: 841.317.643-34
+Projeto: CryptoPorto Manaus VR
+Link do Repositório GitHub: https://github.com/helenaraujo-adv/CryptoPorto-VR-Metaverso-TIC29
