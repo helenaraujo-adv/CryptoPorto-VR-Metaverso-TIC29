@@ -24,11 +24,11 @@ Para manter o projeto otimizado e limpo, este repositório contém apenas os fic
 
 ## 🎮 Como Executar o Projeto
 1. Clone este repositório para o seu computador:
-   `git clone https://github.com/SEU-USUARIO/CryptoPorto-VR-Metaverso-TIC29.git`
+   `git clone https://github.com/helenaraujo-adv/CryptoPorto-VR-Metaverso-TIC29`
 2. Abra o Unity Hub e clique em **Add** para selecionar a pasta clonada.
 3. Certifique-se de que possui os módulos de *Android Build Support* instalados na sua versão do Unity.
 4. Abra a cena principal localizada em `Assets/Scenes/CryptoPorto_Main.unity`.
 5. Para testar sem headset, utilize o **XR Device Simulator** integrado no projeto ou faça o *Build and Run* com um Meta Quest conectado ao PC.
 
 ## 🔗 Ficheiro de Submissão
-O documento com o link deste repositório (`link_repositorio.txt`) e o Relatório Técnico detalhado foram submetidos através da plataforma do curso conforme as instruções da atividade.
+O documento com o link deste repositório (CryptoPorto-VR-Metaverso-TIC29.txt) e o Relatório Técnico detalhado foram submetidos através da plataforma do curso conforme as instruções da atividade.
